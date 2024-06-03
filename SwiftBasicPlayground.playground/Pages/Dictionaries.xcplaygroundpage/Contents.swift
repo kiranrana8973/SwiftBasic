@@ -1,7 +1,15 @@
-//: [Previous](@previous)
+
 
 import Foundation
 
-var greeting = "Hello, playground"
+var englishNepali : [String:String] = [
+    "Hello" :   "Nameste",
+    "Where" : "kata"
+]
 
-//: [Next](@next)
+
+print(englishNepali)
+
+print(englishNepali["Hello"]!)
+englishNepali.removeValue(forKey: "Hello")
+print(englishNepali)

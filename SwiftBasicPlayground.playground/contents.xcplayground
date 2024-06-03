@@ -14,5 +14,14 @@
         <page name='MutableStruct'/>
         <page name='ImmutableStruct'/>
         <page name='Enums'/>
+        <page name='Class'/>
+        <page name='AccessControls'/>
+        <page name='Arrays'/>
+        <page name='StructArrays'/>
+        <page name='Sets'/>
+        <page name='Dictionaries'/>
+        <page name='LinearSearch'/>
+        <page name='FilterSortMap'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
